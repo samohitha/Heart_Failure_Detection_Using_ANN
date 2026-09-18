@@ -9,7 +9,9 @@ Here, provide a brief introduction to the project, explaining the motivation beh
 4. [Model Evaluation](#Model-Evaluation )
 5. [Running the Code](#Running-the-Code)
 6. [References](#References)
+<!--
 7. [Contributors](#Contributors)
+-->
 
 # Introduction
 The introduction to the Heart Failure Prediction Using Artificial Neural Networks (ANN) project emphasizes the critical need for timely heart failure prediction, highlighting the potential of machine learning, specifically ANNs, in this domain. The project aims to achieve early detection, promote personalized medicine, advance research, and have a positive impact on public health.
