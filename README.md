@@ -59,6 +59,10 @@ https://www.researchgate.net/publication/364949647_Enhanced_accuracy_for_heart_d
 https://ieeexplore.ieee.org/document/9112443<br/>
 Dataset<br/>
 https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+<!--
 # Contributors
-•	Hari krishna Para[https://github.com/HariKrishnaUNH] and  Veda Samohitha Chaganti[https://github.com/samohitha]<br />
+
+• Hari krishna Para[https://github.com/HariKrishnaUNH] and Veda Samohitha Chaganti[https://github.com/samohitha]<br />
+
 Feel free to customize and enhance the code as needed for your specific use case.
+-->
